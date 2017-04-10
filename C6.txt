@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main()//inpg
 {
     int low, high, i, flag;
     printf("Enter two numbers(intervals): ");
