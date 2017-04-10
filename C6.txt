@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h>//inpg
+
 int main()
 {
     int low, high, i, flag;
