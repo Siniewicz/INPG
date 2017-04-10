@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//inpg
 int convertDecimalToOctal(int decimalNumber);
 int main()
 {
