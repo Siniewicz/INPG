@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//inpg
 int hcf(int n1, int n2);
 int main()
 {
