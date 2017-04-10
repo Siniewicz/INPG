@@ -28,7 +28,7 @@ int main()
 
     return 0;
 }
-
+//inpg
 // Function to check prime number
 int checkPrime(int n)
 {
